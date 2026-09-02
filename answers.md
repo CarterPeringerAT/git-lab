@@ -11,3 +11,12 @@ Author: CarterPeringerAT <cartersbowlpersonal@gmail.com>
 Date:   Wed Sep 2 17:21:30 2026 -0400
 
     Initial commit
+Answer 9: 
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+Answer 10: The changes I made online were not on the local copy.
+Answer 11: It gives me an error saying that it failed to push, using the hints, this is likely becasue I decided to make changes online before making changes locally.
+Answer 12: The changes I made were updated in the local repository, this is becasue I used the command " git pull" to pull info from the online directoy to the local directory.
+Answer 13: I see a list of all the files in the "git-lab-2" directory which includes ".  ..  .git  .gitignore  README.md" (these are the files that are in the repository).
